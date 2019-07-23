@@ -1,2 +1,4 @@
 First line in abc.txt
 second line
+
+added new line for feature1
